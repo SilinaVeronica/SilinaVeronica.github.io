@@ -6,6 +6,7 @@
     padding-left: 120px;
     padding-right: 115px;
     align-items:center; 
+position:fixed;
 }
 .logo{
      font-family: 'Marck Script', cursive;
