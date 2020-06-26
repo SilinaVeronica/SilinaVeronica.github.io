@@ -3,19 +3,19 @@
     display: flex;
     justify-content: space-between;
     height: 120px;
-    padding-left: 120px;
-    padding-right: 115px;
     align-items:center; 
-position:fixed;
+    position:fixed;
+    background-color:white;
 }
 .logo{
      font-family: 'Marck Script', cursive;
      font-size: 45px;
+     padding-left: 120px;
 }
 .navigation{
     font-family: 'Marck Script', cursive;
     font-size: 30px;
-    
+    padding-right: 115px; 
 }
 .navigation > nav a{
 	text-decoration: none;
